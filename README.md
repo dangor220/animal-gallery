@@ -2,7 +2,7 @@ Gallery
 
 * https://dangor220.github.io/animal_gallery/
 
-Технологии:
+Technologies:
 * HTML
 * CSS
 * JS
